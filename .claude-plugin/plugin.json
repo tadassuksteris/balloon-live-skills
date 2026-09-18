@@ -1,0 +1,12 @@
+{
+  "name": "balloon-live",
+  "description": "Skills for hot-air balloon competition data: Balloon Live IGC parsing, flight checks and task measurement under competition rules.",
+  "version": "0.1.0",
+  "author": {
+    "name": "tadassuksteris",
+    "url": "https://github.com/tadassuksteris"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/tadassuksteris/balloon-live-skills",
+  "homepage": "https://github.com/tadassuksteris/balloon-live-skills"
+}

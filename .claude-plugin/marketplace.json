@@ -1,0 +1,15 @@
+{
+  "name": "balloon-live-skills",
+  "description": "Agent skills for hot-air balloon competition data.",
+  "owner": {
+    "name": "tadassuksteris",
+    "url": "https://github.com/tadassuksteris/balloon-live-skills"
+  },
+  "plugins": [
+    {
+      "name": "balloon-live",
+      "source": "./",
+      "description": "Skills for hot-air balloon competition data: Balloon Live IGC parsing, flight checks and task measurement under competition rules."
+    }
+  ]
+}
